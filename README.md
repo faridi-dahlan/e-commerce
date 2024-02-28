@@ -8,3 +8,4 @@ Dataset yang digunakan : [dari folder dataset-tableau](./dataset-tableau/ecommer
 
 
 ![Visualisasi di Public Tableau](./ecommerce.png)
+
