@@ -7,5 +7,5 @@ Untuk mengakses dashboard, bisa dibuka ke link public tableau berikut :
 Dataset yang digunakan : [dari folder dataset-tableau](./dataset-tableau/ecommerce.rar)
 
 
-![Visualisasi di Public Tableau](./ecommerce.png)
+![Visualisasi di Public Tableau](./ecommerces.png)
 
