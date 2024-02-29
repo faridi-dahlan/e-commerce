@@ -1,17 +1,5 @@
 # Analisa Data : Analisa E-Commerce
 
-
-Untuk mengakses dashboard, bisa dibuka ke link public tableau berikut :
-[Public Tableau](https://public.tableau.com/views/Book1_17088611650490/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-
 Untuk mengetahui alur pengerjaan project ini, anda bisa buka link [medium](https://medium.com/@muhamadfarididahlan/analisa-data-analisa-e-commerce-28cd122bde71)
 
-Flow Project : dataset -> mysql
-
-
-Dataset yang digunakan : [dari folder dataset-tableau](./dataset-tableau/ecommerce.rar)
-
-
-![Visualisasi di Public Tableau](./ecommerces.png)
-
+Flow Project : dataset -> jupyter -> dataset-tableau -> tableau public
